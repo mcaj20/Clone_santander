@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+.caixa{
+    padding: 25px;
+}
+
+
+
+.logo{
+    width: 130px;
+}
+
+.link-voce{
+    color: red;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: 70px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.link-empresa{
+    color: black;
+    margin-left: 30px;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.background2{
+    width: 100%;
+}
+
+h3{
+    margin-left:200px;
+    margin-top:60px ;
+    font-size: 40px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li{
+    height: 150px;
+    width: 190px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+    padding-top: 30px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.imagem-produtos{
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+}
